@@ -1,1 +1,1 @@
-This is main.b2.version
+This is b2.versionThis is main.b2.version
