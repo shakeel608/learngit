@@ -14,7 +14,7 @@ def version7():
     print("This is a Version 7")
 
 def branhc_infer():
-    print("New branch infer")
+    print("This is a version inference branch")
 
 def get_data_loaders(batch_size=64):
     """
