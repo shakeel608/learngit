@@ -9,6 +9,10 @@ def display():
 def version():
     print("This is a Version 6")
 
+
+def version7():
+    print("This is a Version 7")
+
 def get_data_loaders(batch_size=64):
     """
     Prepares the CIFAR-10 dataset with transforms and returns DataLoader objects for training and testing.
