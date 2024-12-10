@@ -42,3 +42,5 @@ def get_data_loaders(batch_size=64):
 print("Version 2 in progress....")
 
 print("Version 3 in progress....")
+
+print("Version 4 in progress....")
