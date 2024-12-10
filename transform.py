@@ -35,3 +35,8 @@ def get_data_loaders(batch_size=64):
     test_loader = torch.utils.data.DataLoader(test_dataset, batch_size=batch_size, shuffle=False)
 
     return train_loader, test_loader
+
+
+
+
+print("Version 2 in progress....")
