@@ -12,8 +12,11 @@ def get_data_loaders(batch_size=64):
     Returns:
         train_loader (DataLoader): DataLoader for training data.
         test_loader (DataLoader): DataLoader for testing data.
+
     """
+
     # Define the transforms for training and testing datasets
+    *******************&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
     transform_train = transforms.Compose([
         transforms.RandomHorizontalFlip(),  # Augmentation: Randomly flip images
         transforms.RandomCrop(32, padding=4),  # Augmentation: Randomly crop images
